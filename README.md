@@ -15,3 +15,4 @@ La clase Equipamiento tiene el string nombre, el int plus_vel, el int plus_def, 
 La clase Objetos tiene el string nombre, el int efecto y el enum tipo, que tiene los tipos curacion, dano, recuperacion y  revivir. Además tiene el método cura, el método dano, el método recu y el método revivir.
 
 La clase Invocaciones tiene los atributos coste, de tipo int, un int llamado efecto y un enum llamado tipo que tiene los valores dano, recuperacion, protección, curacion y revivir. A su vez tiene los métodos cura, dano, recu, prot y revi.
+![Diagrama](/download.jpg)
